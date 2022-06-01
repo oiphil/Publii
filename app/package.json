@@ -57,7 +57,7 @@
     "node-version-compare": "^1.0.1",
     "normalize-path": "^2.0.1",
     "request": "^2.88.0",
-    "sharp": "^0.22.1",
+    "sharp": "^0.30.5",
     "shuffle-array": "^1.0.1",
     "slug": "^0.9.1",
     "sqlstring": "^2.2.0",
